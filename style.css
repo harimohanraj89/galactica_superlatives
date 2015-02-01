@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background: steelblue;
+  color: #fff;
+  font-family: 'Impact';
+  padding-top: 50px;
+  transition: background 0.3s linear;
+}
+
+#image {
+  max-width: 50%;
+  max-height: 250px;
+  text-align: center;
+  border: 4px solid whitesmoke;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 96px;
+}
+
+h2 {
+  font-size: 60px;
+}
